@@ -8,5 +8,11 @@ Projeto: Site de consulta e avaliação do cardápio semanal de almoço do IFPI 
 Objetivo
 
 Facilitar o acesso dos estudantes ao cardápio semanal do refeitório e permitir que avaliem as refeições.
+
+Integrantes:Kaliane
+            Raílla
+            Nayara
+            Lara 
+            
  
  
